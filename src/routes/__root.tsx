@@ -12,14 +12,10 @@ export const Route = createRootRoute({
   component: () => (
     <>
       <div className='min-h-screen'>
-        <div className="flex h-screen bg-slate-50">
-          <Sidebar />
           <main className="flex-1 overflow-y-auto">
             <Header />
             <Outlet />
           </main>
-            <Chat />
-        </div>
       </div>
 
     </>

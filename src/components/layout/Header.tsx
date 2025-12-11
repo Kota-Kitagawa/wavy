@@ -17,7 +17,7 @@ export function Header() {
             <div className="flex-1 max-w-md">
               <div className="relative">
                 <a href="/" className="text-xl font-bold text-black dark:text-white">
-                  ARIVE.
+                  ##
                 </a>
               </div>
             </div>
