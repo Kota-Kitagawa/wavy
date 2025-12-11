@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+count.txt
+.env
+.nitro
+.tanstack
+## 以下のファイルはコードを動作した際に自動生成されるため、Gitで管理しない
+routeTree.gen.ts
